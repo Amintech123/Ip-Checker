@@ -93,4 +93,4 @@ Currently `tests/test_ip_lookup.py` is an empty scaffold — you can add unit te
 
 This project is provided as-is. Replace or add a license file if you intend to publish it.
 
-Created by the repository owner.
+Created by the BitBreaker.
